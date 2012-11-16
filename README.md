@@ -2,6 +2,8 @@ PlatformWiseInPython
 ====================
 A first attempt at Python.
 
+Supported Systems: Mac OSX, Linux, FreeBSD and Sun OS
+
 A script which returns information about the system like system memory, number 
 of cores, etc.Currently, this script supports FreeBSD, Linux, OSX and SunOS. 
 
